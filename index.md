@@ -16,7 +16,7 @@ We’ll build technical capabilities to develop insights from data and ensure da
 
 We'll be preparing students to plan, manage and lead effective teams in product & management roles. 
 
-Each class will be a mix of lecture focused on cases / topics and labs to sharpen skills in using Python for EDA.  Assignments will be 4 homework and 1 reflection, no final, class participation will be important. 
+Each class will be a mix of lecture focused on cases / topics and labs to sharpen skills in using Python for EDA.  There will be 4 paired homework assignments and 1 small group reflection, no final, class participation will be important. 
 
 ## Learning Objectives:
 You will learn to approach new data projects & products with a robust framework to enable success across acquisition, analytics, activation and archiving of data.  You'll gain an understanding the key systems and data in the modern data stack including cloud and the challenges of moving data through data pipelines.  You will develop strategies to effectively govern data ensuring a robust process to ensure quality, regulatory compliance and security.  Finally, you'll build robust, iterative processes for EDA (exploratory data analysis) dealing with data quality issues and transforming data into robust features for AI modeling.
@@ -33,7 +33,7 @@ https://sqlbolt.com/
 Aziza will post office hours to Canvas.  Brook will be available for an hour prior to class in the class lecture room (if room is available) or schedule via email.
 
 ## Course Materials
-There are no additional required readings beyond the links for each.  After each class we will publish the slides used in class as well as additional reading and links that will allow students to expand their depth / breadth on topics covered in class.
+There are no additional required readings beyond the links pre-reading links provided for each week.  After each class we will publish the slides used in class as well as additional reading and links that will allow students to expand their depth / breadth on topics covered in class.
 
 # Course Structure
 ## Week 1: Data Models and Databases
