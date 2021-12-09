@@ -19,10 +19,13 @@ We'll be preparing students to plan, manage and lead effective teams in product 
 Each class will be a mix of lecture focused on cases / topics and labs to sharpen skills in using Python for EDA.  There will be 4 paired homework assignments and 1 small group reflection, no final, class participation will be important. 
 
 ## Learning Objectives:
-You will learn to approach new data projects & products with a robust framework to enable success across acquisition, analytics, activation and archiving of data.  You'll gain an understanding the key systems and data in the modern data stack including cloud and the challenges of moving data through data pipelines.  You will develop strategies to effectively govern data ensuring a robust process to ensure quality, regulatory compliance and security.  Finally, you'll build robust, iterative processes for EDA (exploratory data analysis) dealing with data quality issues and transforming data into robust features for AI modeling.
+You will learn to approach new data projects & products with a robust framework to enable success across acquisition, analytics, activation and archiving of data.  You'll gain an understanding of the key systems and data in the modern data stack including cloud and the challenges of moving data through data pipelines.  You will develop strategies to effectively govern data ensuring a robust process to ensure quality, regulatory compliance and security.  Finally, you'll build robust, iterative processes for EDA (exploratory data analysis) dealing with data quality issues and transforming data into robust features for AI modeling.
 
 ## <span style="color:red">Prerequisites</span>
-Please familiarize yourself with a python notebook environment.  From anaconda: launch JupyterLab or Jupyter Notebook.  There are many other options.
+Please familiarize yourself with a python notebook environment.  We'll ensure everything works in [Google Colab](https://colab.research.google.com/)  If you prefer another notebook environment and can self troubleshoot that is fine.
+
+If you're not familiar with python programming in notebook environments please read [the overview](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
+
 
 You should have completed MBAi 410: Computational Thinking for Business Leaders. We'll assume a level of Python knowledge building on that but more focused on using key libraries and manipulating data.
 
@@ -45,10 +48,12 @@ There are no additional required readings beyond the links pre-reading links pro
 - Build skills in SQL and Intro to Exploratory Data Analysis (EDA)
 
 ### Pre-Read
-Developers as Creatives  
+[Developers as Creatives](https://future.a16z.com/podcasts/developers-creative-class-company-innovation/)  
 https://future.a16z.com/podcasts/developers-creative-class-company-innovation/  
 
-SQL Bolt Complete Lessons 1-11 (SQL Lesson 11: Queries with aggregates (Pt. 2))  
+[Google Colab Overview](https://colab.research.google.com/notebooks/basic_features_overview.ipynb).
+
+[SQL Bolt Complete Lessons 1-11](https://sqlbolt.com/  ) (through SQL Lesson 11: Queries with aggregates (Pt. 2))  
 https://sqlbolt.com/  
 
 
@@ -62,13 +67,13 @@ https://sqlbolt.com/
 
 
 ### Pre-Read
-At Flatiron Health, Doctors And Developers Work On Cracking The Code For Better Cancer Treatment  
+At [Flatiron Health](https://www.fastcompany.com/3067893/at-flatiron-health-keeping-the-doctor-close), Doctors And Developers Work On Cracking The Code For Better Cancer Treatment   
 https://www.fastcompany.com/3067893/at-flatiron-health-keeping-the-doctor-close
 
-How JetBlue is eliminating the data engineering bottlenecks with dbt  
+How [JetBlue](https://www.getdbt.com/success-stories/jetblue/) is eliminating the data engineering bottlenecks with dbt]  
 https://www.getdbt.com/success-stories/jetblue/
 
-Texas officials order power plant operators to prepare for winter hazards  
+Texas officials order power plant operators to prepare for winter [hazards](https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-operators-to-prepare-for-winter-hazards)    
 https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-operators-to-prepare-for-winter-hazards
 
 
@@ -78,13 +83,13 @@ https://www.npr.org/2021/12/07/1062017005/texas-officials-order-power-plant-oper
 - Realize the transformational impact of the cloud on data & analytics architecture
 - Work with emerging, semi-structured and unstructured data types
 - Recognize alternative sources of data and data marketplaces
-- Continue EDA and use elements of the modern data stack to build a data pipeline
+- Continue EDA and with bi-variate analysis
 
 ### Pre-Read
-How Nike is using DTC and data to expand its empire  
+How [Nike](https://www.retaildive.com/news/how-nike-is-using-dtc-and-data-to-expand-its-empire/596602/) is using DTC and data to expand its empire  
 https://www.retaildive.com/news/how-nike-is-using-dtc-and-data-to-expand-its-empire/596602/
 
-AWS Data Exchange  
+AWS Data [Exchange](https://aws.amazon.com/data-exchange/)  
 https://aws.amazon.com/data-exchange/
 
 
@@ -97,10 +102,10 @@ https://aws.amazon.com/data-exchange/
 - Create exploratory interactive visualizations of data
 
 ### Pre-Read
-When to Be Cautious About Sharing Data  
+When to Be Cautious About [Sharing](https://medium.com/97-things/accessible-data-empowers-organizations-but-it-can-also-cause-problems-5db1c12857d5) Data  
 https://medium.com/97-things/accessible-data-empowers-organizations-but-it-can-also-cause-problems-5db1c12857d5   
 
-Making movies the ‘Moneyball’ way  
+[Legendary Pictures](https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html): Making movies the ‘Moneyball’ way  
 https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyball-way/Uzgwh2cdGthA1N3nZHqz0N/story.html
 
 
@@ -113,20 +118,20 @@ https://www.bostonglobe.com/business/technology/2016/03/31/making-movies-moneyba
 - Develop skills to convert data into derived features
 
 ### Pre-Read
-What’s in Store for the Future of the Modern Data Stack?   
+What’s in Store for the Future of the [Modern Data Stack](https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809)?   
 https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809
 
-Wells Fargo, Upstart criticized after study finds loan disparities  
+Wells Fargo, [Upstart](https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/) criticized after study finds loan disparities  
 https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/
 
 # Grading policy and assignments
 10% Class Attendance  
-20% Class Participation  
-10% Reflection Assignment  
+10% Class Participation  
+20% Reflection Assignment  
 60% (4 @ 15% each) Paired Homework Assignments  
 
 ## Class Participation and Attendance
-Class participation and attendance is 30% of your grade. This includes attendance at each session (10% of grade) as well as your active, constructive contributions  to each session (20% of grade).
+Class participation and attendance is 20% of your grade. This includes attendance at each session (10% of grade) as well as your active, constructive contributions  to each session (10% of grade).
 
 ### Attendance
 I will take attendance at each of oursessions. If you miss 0-1 sessions, this will not affect your course grade. After this, you will lose 5% of your attendance grade for each absence (i.e., your grade goes from 10% to 5% if you miss a second session)
@@ -134,10 +139,12 @@ I will take attendance at each of oursessions. If you miss 0-1 sessions, this wi
 If you reach 3 absences, your participation score is zero. If you miss more than 3 classes you will not earn a passing grade in the course. On-time arrival is expected. If you must leave early or arrive late to class, this will affect your participation grade (you cannot participate if you are not present). Please contact me in advance of class if you know that you must arrive late or leave early. I realize that students face many issues during the quarter that impact attendance, late arrival to class and early departure from class. I will handle requests for excused absences and exceptions to the attendance policy on a case-by-case basis but you must notify me in advance.
 
 ### Participation
-Positive contributions to class discussion increase your participation. Poor preparation and detrimental participation decrease your participation score. It is important that you have read the material in the prior to attending class. In addition, you should familiarize yourself with any data that we will discuss that day. You will need to check the course web site on Canvas to obtain data and instructions for both homework assignments and in-class analysis.
+Positive contributions to class discussion increase your participation. Poor preparation and detrimental participation decrease your participation score. It is important that you have read the material prior to attending class. In addition, you should familiarize yourself with any data that we will discuss that day. You will need to check the course web site on Canvas to obtain data and instructions for both homework assignments and in-class analysis.
 
 ### Reflection Assignment
-Each class 3 to 4 groups of 3 students will be assigned a reflection topic to document and provide a framework to what was discussed in class around that topic as well as sourcing additional data / relevant links / frameworks that help to bring value to the topic assigned.  Total length of the reflection will be ~2 pages and can include pictures / charts.  The reflections are due by the following Tuesday 10PM central.  Reflections will be graded: Pass+, Pass and No Pass.
+Each class 3 to 4 groups of 3 to 4 students will be assigned a reflection topic to document and provide a framework to what was discussed in class around that topic as well as sourcing additional data / relevant links / frameworks that help to bring value to the topic assigned.  Total length of the reflection will be ~2 pages (~750 words +/- 200) and can include pictures / charts.  The reflections are due by the following Tuesday 10PM central.  Reflections will be graded: Pass+, Pass and No Pass.
+
+Reflections will be shared and made available for use by all students.
 
 ## Homework Assignments
 We will post homework assignments to canvas and use github classroom to submit your completed assignments.  There is a homework assignment each week but no final exam.  All assignments must be submitted electronically through github classroom. 
@@ -151,16 +158,16 @@ Late homework assignments are not accepted. In fairness to everyone in the class
 NO FINAL EXAM
 
 ### Re-grade Requests
-Re-grade  requests  must  be  submitted via  email  to  me within 7 days  from  when  the assignmentis  returned. Along  with  the  graded  assignment,  you  must  attach  a  letter explaining whyyou are requesting a re-grade. Be as specific as possible. While I will consider the specific concerns cited in your letter, I will re-grade the entire assignment. Note that I personally review all assignments that were designated as being on the border of two grades. Thus, although I consider it reasonable to accept regrade requests, it is rare that I change a grade. It is not that I am unwilling to change grades—I certainly value accuracy in grading—but rather our grading system works well and is designed to avoid ambiguity. Note that after reviewing your entire assignment, it is possible your grade could be lower.
+Re-grade  requests  must  be  submitted via  email  to  me within 7 days  from  when  the assignment is  returned. Along  with  the  graded  assignment,  you  must  attach  a  letter explaining why you are requesting a re-grade. Be as specific as possible. While I will consider the specific concerns cited in your letter, I will re-grade the entire assignment. Note that I personally review all assignments that were designated as being on the border of two grades. Thus, although I consider it reasonable to accept regrade requests, it is rare that I change a grade. It is not that I am unwilling to change grades—I certainly value accuracy in grading—but rather our grading system works well and is designed to avoid ambiguity. Note that after reviewing your entire assignment, it is possible your grade could be lower.
 
 ### Honor Code 
-The Kellogg Honor Code is applicable in this class.The complete text of the Honor Code is available on the Honor Code web site.
+The Kellogg Honor Code is applicable in this class.The complete text of the Honor Code is available on the Honor Code website.
 
 http://www.kellogg.northwestern.edu/stu_aff/policies/honorcode.htm
 
-The Honor Code is enforced at Kellogg and violations are subject to disciplinary sanctions.Honor Code issues seldom arisebecause of Kellogg’s culture. I do not want such issues to arise in my class.General ethics and honor code concerns may apply to the specific components of this course as follows: I expect you to have a full understanding of any written material you, or somebody else on behalf of you, submit(s) with your name on it. You must come to this understanding in collaboration with your group and you must be completely familiar with the material and be able to answer questions aboutthe assignment. Substantial contribution by each group member is expected. The act of signing the assignment signifies that you have substantially participated in the preparation of the assignment.
+The Honor Code is enforced at Kellogg and violations are subject to disciplinary sanctions.Honor Code issues seldom arise because of Kellogg’s culture. I do not want such issues to arise in my class.  General ethics and honor code concerns may apply to the specific components of this course as follows: I expect you to have a full understanding of any written material you, or somebody else on behalf of you, submit(s) with your name on it. You must come to this understanding in collaboration with your group and you must be completely familiar with the material and be able to answer questions about the assignment. Substantial contribution by each group member is expected. The act of signing the assignment signifies that you have substantially participated in the preparation of the assignment.
 
-It is not appropriate to discuss group graded homework assignments with students outside  your  homework  group. It  is  not  appropriate  to  discuss  individual  graded assignments with other students, unless instructed otherwise by the professor. It is appropriate to discuss non-graded assignmentswith anyone in the course. For all graded assignments, you may not use materials containing related analyses from other sources. This includes, but is not limited to, material from current and former Kellogg students and analyses from the Internet. Similarly, students may not use materials distributed by faculty to previous classes (e.g. a case summary handed out to last year’s class). The discussion in this syllabus of the Honor Code, while intended to be as comprehensive as possible, may not cover all applications of the Honor Code. If you believe something is unclear or omitted, please do not hesitate to speak to me.
+It is not appropriate to discuss group graded homework assignments with students outside  your  homework  group. It  is  not  appropriate  to  discuss  individual  graded assignments with other students, unless instructed otherwise by the professor. It is appropriate to discuss non-graded assignments with anyone in the course. For all graded assignments, you may not use materials containing related analyses from other sources. This includes, but is not limited to, material from current and former Kellogg students and analyses from the Internet. Similarly, students may not use materials distributed by faculty to previous classes (e.g. a case summary handed out to last year’s class). The discussion in this syllabus of the Honor Code, while intended to be as comprehensive as possible, may not cover all applications of the Honor Code. If you believe something is unclear or omitted, please do not hesitate to speak to me.
 
 ## Exceptions to class modality
 Class sessions for this course will occur in person. Individual students will not be granted permission to attend remotely except as the result of an Americans with Disabilities Act (ADA) accommodation as determined by AccessibleNU. 
