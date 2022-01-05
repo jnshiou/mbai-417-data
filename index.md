@@ -1,13 +1,5 @@
 # MBAi 417 Data & Data Intensive Systems
-
-## Location & Time
-Kellogg Global Hub in L130
-
-Wednesdays 6:30 - 9:30 PM
-
-Instructor: Brook Miller: brook@4brook.com
-
-TA: Aziza Mirsaidova: azizamirsaidova@northwestern.edu
+Instructor: Brook Miller
 
 ## Overview:
 The exponential growth in data, more powerful algorithms and the scalability of cloud architectures enable the world’s most successful companies and create new data intensive opportunities for every organization.  In this class we’ll develop strong intuition of the principles driving the modern data ecosystem (database, data transformation, governance, discovery).  We’ll explore new cloud architectures for data intensive applications and how they impact companies’ abilities to deliver.  
@@ -31,12 +23,6 @@ You should have completed MBAi 410: Computational Thinking for Business Leaders.
 
 We'll be using SQL (not teaching SQL) so please do take the SQL Bolt tutorial as mentioned in the pre-reads for the first class.   You only need to complete Lessons 1-11 (SQL Lesson 1: SQL Lesson 1: SELECT queries 101 through SQL Lesson 11: Queries with aggregates (Pt. 2))  
 https://sqlbolt.com/ 
-
-## Office Hours
-Aziza will post office hours to Canvas.  Brook will be available for an hour prior to class in the class lecture room (if room is available) or schedule via email.
-
-## Course Materials
-There are no additional required readings beyond the links pre-reading links provided for each week.  After each class we will publish the slides used in class as well as additional reading and links that will allow students to expand their depth / breadth on topics covered in class.
 
 # Course Structure
 ## Week 1: Data Models and Databases
@@ -124,71 +110,3 @@ https://towardsdatascience.com/the-future-of-the-modern-data-stack-2de175b3c809
 Wells Fargo, [Upstart](https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/) criticized after study finds loan disparities  
 https://www.bankingdive.com/news/wells-fargo-upstart-student-loan-case-study/571849/
 
-# Grading policy and assignments
-10% Class Attendance  
-10% Class Participation  
-20% Reflection Assignment  
-60% (4 @ 15% each) Paired Homework Assignments  
-
-## Class Participation and Attendance
-Class participation and attendance is 20% of your grade. This includes attendance at each session (10% of grade) as well as your active, constructive contributions  to each session (10% of grade).
-
-### Attendance
-I will take attendance at each of oursessions. If you miss 0-1 sessions, this will not affect your course grade. After this, you will lose 5% of your attendance grade for each absence (i.e., your grade goes from 10% to 5% if you miss a second session)
-
-If you reach 3 absences, your participation score is zero. If you miss more than 3 classes you will not earn a passing grade in the course. On-time arrival is expected. If you must leave early or arrive late to class, this will affect your participation grade (you cannot participate if you are not present). Please contact me in advance of class if you know that you must arrive late or leave early. I realize that students face many issues during the quarter that impact attendance, late arrival to class and early departure from class. I will handle requests for excused absences and exceptions to the attendance policy on a case-by-case basis but you must notify me in advance.
-
-### Participation
-Positive contributions to class discussion increase your participation. Poor preparation and detrimental participation decrease your participation score. It is important that you have read the material prior to attending class. In addition, you should familiarize yourself with any data that we will discuss that day. You will need to check the course web site on Canvas to obtain data and instructions for both homework assignments and in-class analysis.
-
-### Reflection Assignment
-Each class 3 to 4 groups of 3 to 4 students will be assigned a reflection topic to document and provide a framework to what was discussed in class around that topic as well as sourcing additional data / relevant links / frameworks that help to bring value to the topic assigned.  Total length of the reflection will be ~2 pages (~750 words +/- 200) and can include pictures / charts.  The reflections are due by the following Tuesday 10PM central.  Reflections will be graded: Pass+, Pass and No Pass.
-
-Reflections will be shared and made available for use by all students.
-
-## Homework Assignments
-We will post homework assignments to canvas and use github classroom to submit your completed assignments.  There is a homework assignment each week but no final exam.  All assignments must be submitted electronically through github classroom. 
-
-Assignments will be available shortly after class (on Wednesday night) and due by the following Tuesday 10PM central.  Grades for each assignment will be Pass+, Pass and No Pass.
-
-### Late Assignments
-Late homework assignments are not accepted. In fairness to everyone in the class, I cannot accept late assignments. A late homework will result in a zero for that assignment. There is no way to make up for a missed assignment; I do not offer additional assignments or extra work in lieu of a missed assignment. There are no exceptions to this policy. Given this, please pay close attention to deadlines. 
-
-### Final Exam
-NO FINAL EXAM
-
-### Re-grade Requests
-Re-grade  requests  must  be  submitted via  email  to  me within 7 days  from  when  the assignment is  returned. Along  with  the  graded  assignment,  you  must  attach  a  letter explaining why you are requesting a re-grade. Be as specific as possible. While I will consider the specific concerns cited in your letter, I will re-grade the entire assignment. Note that I personally review all assignments that were designated as being on the border of two grades. Thus, although I consider it reasonable to accept regrade requests, it is rare that I change a grade. It is not that I am unwilling to change grades—I certainly value accuracy in grading—but rather our grading system works well and is designed to avoid ambiguity. Note that after reviewing your entire assignment, it is possible your grade could be lower.
-
-### Honor Code 
-The Kellogg Honor Code is applicable in this class.The complete text of the Honor Code is available on the Honor Code website.
-
-http://www.kellogg.northwestern.edu/stu_aff/policies/honorcode.htm
-
-The Honor Code is enforced at Kellogg and violations are subject to disciplinary sanctions.Honor Code issues seldom arise because of Kellogg’s culture. I do not want such issues to arise in my class.  General ethics and honor code concerns may apply to the specific components of this course as follows: I expect you to have a full understanding of any written material you, or somebody else on behalf of you, submit(s) with your name on it. You must come to this understanding in collaboration with your group and you must be completely familiar with the material and be able to answer questions about the assignment. Substantial contribution by each group member is expected. The act of signing the assignment signifies that you have substantially participated in the preparation of the assignment.
-
-It is not appropriate to discuss group graded homework assignments with students outside  your  homework  group. It  is  not  appropriate  to  discuss  individual  graded assignments with other students, unless instructed otherwise by the professor. It is appropriate to discuss non-graded assignments with anyone in the course. For all graded assignments, you may not use materials containing related analyses from other sources. This includes, but is not limited to, material from current and former Kellogg students and analyses from the Internet. Similarly, students may not use materials distributed by faculty to previous classes (e.g. a case summary handed out to last year’s class). The discussion in this syllabus of the Honor Code, while intended to be as comprehensive as possible, may not cover all applications of the Honor Code. If you believe something is unclear or omitted, please do not hesitate to speak to me.
-
-## Exceptions to class modality
-Class sessions for this course will occur in person. Individual students will not be granted permission to attend remotely except as the result of an Americans with Disabilities Act (ADA) accommodation as determined by AccessibleNU. 
-
-Maintaining the health of the community remains our priority.  If you are ill for any reason, please do not attend class.
-
-Students who are ill, must quarantine, or experience a personal emergency should contact the instructor as soon as possible to arrange to complete coursework.
-
-Should public health recommendations prevent us from holding class in person on a given day, the instructor or the university will notify students.
-
-## Guidance on Class Recordings
-This class or portions of this class will be recorded by the instructor for educational purpose and available to the class during the quarter. Your instructor will communicate how you can access the recordings. Portions of the course that contain images, questions or commentary/discussion by students will be edited out of any recordings that are saved beyond the current term.
-
-## Prohibition of Recording Classes by Students
-Unauthorized student recording of classroom or other academic activities (including advising sessions or office hours) is prohibited. Unauthorized recording is unethical and may also be a violation of University policy and state law. Students requesting the use of assistive technology as an accommodation should contact AccessibleNULinks to an external site.. Unauthorized use of classroom recordings – including distributing or posting them – is also prohibited. Under the University’s Copyright PolicyLinks to an external site., faculty own the copyright to instructional materials – including those resources created specifically for the purposes of instruction, such as syllabi, lectures and lecture notes, and presentations. Students cannot copy, reproduce, display, or distribute these materials. Students who engage in unauthorized recording, unauthorized use of a recording, or unauthorized distribution of instructional materials will be referred to the appropriate University office for follow-up.
-
-## Support for Wellness and Mental Health
-Northwestern University is committed to supporting the wellness of our students. Student Affairs has multiple resources to support student wellness and mental health.  If you are feeling distressed or overwhelmed, please reach out for help. Students can access confidential resources through the Counseling and Psychological Services (CAPS), Religious and Spiritual Life (RSL) and the Center for Awareness, Response and Education (CARE). Additional information on all of the resources mentioned above can be found here:
-
-https://www.northwestern.edu/counseling/ 
-
-https://www.northwestern.edu/religious-life/
-
-https://www.northwestern.edu/care/
